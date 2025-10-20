@@ -1,0 +1,13 @@
+{
+  "totalRecords": 979347,
+  "totalFines": 73127979.0,
+  "totalOutstanding": 3004981.3,
+  "totalPaid": 66287134.790000014,
+  "averageFine": 74.6701414309739,
+  "dateRange": {
+    "first": "2018-01-01",
+    "last": "2025-09-29"
+  },
+  "uniqueStreets": 576,
+  "lastUpdated": "2025-10-20 11:24:22"
+}
