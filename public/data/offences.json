@@ -1,0 +1,614 @@
+[
+  {
+    "OffenceType": "Contravene Permissive Parking Sign",
+    "ExpiationAmount_sum": 13179235.0,
+    "ExpiationAmount_count": 229626,
+    "ExpiationAmount_mean": 57.39
+  },
+  {
+    "OffenceType": "Contravene No Stopping Sign",
+    "ExpiationAmount_sum": 11226563.0,
+    "ExpiationAmount_count": 107145,
+    "ExpiationAmount_mean": 104.78
+  },
+  {
+    "OffenceType": "Fail Obey Instruct-No Valid Tickt Correctly Displ",
+    "ExpiationAmount_sum": 10681568.0,
+    "ExpiationAmount_count": 186405,
+    "ExpiationAmount_mean": 57.3
+  },
+  {
+    "OffenceType": "Stop in a Permit Zone",
+    "ExpiationAmount_sum": 8381035.0,
+    "ExpiationAmount_count": 118249,
+    "ExpiationAmount_mean": 70.88
+  },
+  {
+    "OffenceType": "Fail to pay parking fee - Ticket Expired",
+    "ExpiationAmount_sum": 6311603.0,
+    "ExpiationAmount_count": 112026,
+    "ExpiationAmount_mean": 56.34
+  },
+  {
+    "OffenceType": "Stop in a Bus Lane",
+    "ExpiationAmount_sum": 4308968.0,
+    "ExpiationAmount_count": 14202,
+    "ExpiationAmount_mean": 303.41
+  },
+  {
+    "OffenceType": "Contravene Permissive Parking Sign - Area Parking",
+    "ExpiationAmount_sum": 2248456.0,
+    "ExpiationAmount_count": 39025,
+    "ExpiationAmount_mean": 57.62
+  },
+  {
+    "OffenceType": "Stop on continuous Yellow Edge Line",
+    "ExpiationAmount_sum": 2055827.0,
+    "ExpiationAmount_count": 19116,
+    "ExpiationAmount_mean": 107.54
+  },
+  {
+    "OffenceType": "Stop in a Taxi Zone",
+    "ExpiationAmount_sum": 2026666.0,
+    "ExpiationAmount_count": 13928,
+    "ExpiationAmount_mean": 145.51
+  },
+  {
+    "OffenceType": "Overstay Loading Zone - 10 mins",
+    "ExpiationAmount_sum": 1945733.0,
+    "ExpiationAmount_count": 26165,
+    "ExpiationAmount_mean": 74.36
+  },
+  {
+    "OffenceType": "Stop in a Bus Zone",
+    "ExpiationAmount_sum": 1792711.0,
+    "ExpiationAmount_count": 12209,
+    "ExpiationAmount_mean": 146.84
+  },
+  {
+    "OffenceType": "Stop in Disabled Parking Area",
+    "ExpiationAmount_sum": 1619669.0,
+    "ExpiationAmount_count": 4036,
+    "ExpiationAmount_mean": 401.31
+  },
+  {
+    "OffenceType": "Overstay Loading Zone - 30 mins",
+    "ExpiationAmount_sum": 1279669.0,
+    "ExpiationAmount_count": 17229,
+    "ExpiationAmount_mean": 74.27
+  },
+  {
+    "OffenceType": "Contravene Permissive Parking Sign in Ticket Zone",
+    "ExpiationAmount_sum": 808764.0,
+    "ExpiationAmount_count": 13953,
+    "ExpiationAmount_mean": 57.96
+  },
+  {
+    "OffenceType": "Contravene No Parking Sign",
+    "ExpiationAmount_sum": 785436.0,
+    "ExpiationAmount_count": 9019,
+    "ExpiationAmount_mean": 87.09
+  },
+  {
+    "OffenceType": "Permit Area-No Permit (Private Parking Areas Act)",
+    "ExpiationAmount_sum": 696391.0,
+    "ExpiationAmount_count": 9821,
+    "ExpiationAmount_mean": 70.91
+  },
+  {
+    "OffenceType": "Stop on City of Adelaide Park Lands",
+    "ExpiationAmount_sum": 532361.0,
+    "ExpiationAmount_count": 3322,
+    "ExpiationAmount_mean": 160.25
+  },
+  {
+    "OffenceType": "Fail to park facing in the dir of travel 2 way rd",
+    "ExpiationAmount_sum": 409474.0,
+    "ExpiationAmount_count": 5491,
+    "ExpiationAmount_mean": 74.57
+  },
+  {
+    "OffenceType": "Permit Area -Expired Permit-Priv Parking Areas Act",
+    "ExpiationAmount_sum": 297402.0,
+    "ExpiationAmount_count": 4238,
+    "ExpiationAmount_mean": 70.18
+  },
+  {
+    "OffenceType": "Contravene No Stopping Area",
+    "ExpiationAmount_sum": 239949.0,
+    "ExpiationAmount_count": 2276,
+    "ExpiationAmount_mean": 105.43
+  },
+  {
+    "OffenceType": "Further Offence Contravene Permissive Parking Sign",
+    "ExpiationAmount_sum": 235140.0,
+    "ExpiationAmount_count": 4283,
+    "ExpiationAmount_mean": 54.9
+  },
+  {
+    "OffenceType": "Further Off Fail obey inst no valid tick corr disp",
+    "ExpiationAmount_sum": 179131.0,
+    "ExpiationAmount_count": 3298,
+    "ExpiationAmount_mean": 54.32
+  },
+  {
+    "OffenceType": "Contravene Motor Bike Parking Sign",
+    "ExpiationAmount_sum": 173471.0,
+    "ExpiationAmount_count": 2435,
+    "ExpiationAmount_mean": 71.24
+  },
+  {
+    "OffenceType": "Further Offence, Stop in a Loading Zone",
+    "ExpiationAmount_sum": 166610.0,
+    "ExpiationAmount_count": 3080,
+    "ExpiationAmount_mean": 54.09
+  },
+  {
+    "OffenceType": "Stop on a Footpath",
+    "ExpiationAmount_sum": 166444.0,
+    "ExpiationAmount_count": 1556,
+    "ExpiationAmount_mean": 106.97
+  },
+  {
+    "OffenceType": "Stop in a Bicycle Lane",
+    "ExpiationAmount_sum": 162192.0,
+    "ExpiationAmount_count": 558,
+    "ExpiationAmount_mean": 290.67
+  },
+  {
+    "OffenceType": "Stop within 1m of a Fire Hydrant",
+    "ExpiationAmount_sum": 158813.0,
+    "ExpiationAmount_count": 1828,
+    "ExpiationAmount_mean": 86.88
+  },
+  {
+    "OffenceType": "Stop in a Mail Zone",
+    "ExpiationAmount_sum": 123257.0,
+    "ExpiationAmount_count": 1679,
+    "ExpiationAmount_mean": 73.41
+  },
+  {
+    "OffenceType": "Fail to Angle Pk at angle of 60 Deg/Rear to Kerb",
+    "ExpiationAmount_sum": 102918.0,
+    "ExpiationAmount_count": 1423,
+    "ExpiationAmount_mean": 72.32
+  },
+  {
+    "OffenceType": "Stop within 10m of Intersection- No Traffic Lights",
+    "ExpiationAmount_sum": 100240.0,
+    "ExpiationAmount_count": 924,
+    "ExpiationAmount_mean": 108.48
+  },
+  {
+    "OffenceType": "Fail to Park Facing Direction Travel (one way)",
+    "ExpiationAmount_sum": 81774.0,
+    "ExpiationAmount_count": 1105,
+    "ExpiationAmount_mean": 74.0
+  },
+  {
+    "OffenceType": "Fail to pay parking fee: electronic ticket expired",
+    "ExpiationAmount_sum": 78674.0,
+    "ExpiationAmount_count": 1351,
+    "ExpiationAmount_mean": 58.23
+  },
+  {
+    "OffenceType": "Exceeding Time Limit (Private Parking Areas Act)",
+    "ExpiationAmount_sum": 76448.0,
+    "ExpiationAmount_count": 1376,
+    "ExpiationAmount_mean": 55.56
+  },
+  {
+    "OffenceType": "Further Offence Fail to pay parking fee Ticket exp",
+    "ExpiationAmount_sum": 50914.0,
+    "ExpiationAmount_count": 951,
+    "ExpiationAmount_mean": 53.54
+  },
+  {
+    "OffenceType": "Stop on or across a Driveway",
+    "ExpiationAmount_sum": 47108.0,
+    "ExpiationAmount_count": 540,
+    "ExpiationAmount_mean": 87.24
+  },
+  {
+    "OffenceType": "Further Offence, Stop in a Permit Zone",
+    "ExpiationAmount_sum": 44583.0,
+    "ExpiationAmount_count": 814,
+    "ExpiationAmount_mean": 54.77
+  },
+  {
+    "OffenceType": "Stop On a Painted Island",
+    "ExpiationAmount_sum": 34945.0,
+    "ExpiationAmount_count": 327,
+    "ExpiationAmount_mean": 106.87
+  },
+  {
+    "OffenceType": "Park Obstruct Path of other Vehicles & Pedestrians",
+    "ExpiationAmount_sum": 30709.0,
+    "ExpiationAmount_count": 413,
+    "ExpiationAmount_mean": 74.36
+  },
+  {
+    "OffenceType": "Stop in a Permit Zone - Breach permit conditions",
+    "ExpiationAmount_sum": 28387.0,
+    "ExpiationAmount_count": 373,
+    "ExpiationAmount_mean": 76.1
+  },
+  {
+    "OffenceType": "Fail to Angle Pk at angle of 45 Deg/Rear to Kerb",
+    "ExpiationAmount_sum": 27198.0,
+    "ExpiationAmount_count": 379,
+    "ExpiationAmount_mean": 71.76
+  },
+  {
+    "OffenceType": "Disabled Permit Areas (Private Parking Areas Act)",
+    "ExpiationAmount_sum": 22871.0,
+    "ExpiationAmount_count": 57,
+    "ExpiationAmount_mean": 401.25
+  },
+  {
+    "OffenceType": "Further Offence, Contravene No Parking Sign",
+    "ExpiationAmount_sum": 22767.0,
+    "ExpiationAmount_count": 419,
+    "ExpiationAmount_mean": 54.34
+  },
+  {
+    "OffenceType": "Stop in a Public Place",
+    "ExpiationAmount_sum": 21573.0,
+    "ExpiationAmount_count": 310,
+    "ExpiationAmount_mean": 69.59
+  },
+  {
+    "OffenceType": "Fail to park Parallell/Close to left -  2 Way Road",
+    "ExpiationAmount_sum": 19978.0,
+    "ExpiationAmount_count": 272,
+    "ExpiationAmount_mean": 73.45
+  },
+  {
+    "OffenceType": "Further Offence, Contravene No Stopping Sign",
+    "ExpiationAmount_sum": 19634.0,
+    "ExpiationAmount_count": 361,
+    "ExpiationAmount_mean": 54.39
+  },
+  {
+    "OffenceType": "Double Parked - Two way road",
+    "ExpiationAmount_sum": 16897.0,
+    "ExpiationAmount_count": 163,
+    "ExpiationAmount_mean": 103.66
+  },
+  {
+    "OffenceType": "Further Offence, Stop Continuous Yellow Edge Line",
+    "ExpiationAmount_sum": 13676.0,
+    "ExpiationAmount_count": 256,
+    "ExpiationAmount_mean": 53.42
+  },
+  {
+    "OffenceType": "Stop on a Nature Strip",
+    "ExpiationAmount_sum": 11161.0,
+    "ExpiationAmount_count": 109,
+    "ExpiationAmount_mean": 102.39
+  },
+  {
+    "OffenceType": "No Stopping (Private Parking Areas Act 1986)",
+    "ExpiationAmount_sum": 9508.0,
+    "ExpiationAmount_count": 98,
+    "ExpiationAmount_mean": 97.02
+  },
+  {
+    "OffenceType": "Stop in a Permit Zone longer than 60 min maximum",
+    "ExpiationAmount_sum": 9231.0,
+    "ExpiationAmount_count": 129,
+    "ExpiationAmount_mean": 71.56
+  },
+  {
+    "OffenceType": "Further Off - Contrav Permissive Pk Sign Area Park",
+    "ExpiationAmount_sum": 6200.0,
+    "ExpiationAmount_count": 112,
+    "ExpiationAmount_mean": 55.36
+  },
+  {
+    "OffenceType": "Obstruct access to and from a Foothpath",
+    "ExpiationAmount_sum": 5511.0,
+    "ExpiationAmount_count": 68,
+    "ExpiationAmount_mean": 81.04
+  },
+  {
+    "OffenceType": "Fail to Angle Park at angle of 90 Degrees",
+    "ExpiationAmount_sum": 5037.0,
+    "ExpiationAmount_count": 72,
+    "ExpiationAmount_mean": 69.96
+  },
+  {
+    "OffenceType": "Further Offence, Exceed time (Priv Park Area Act)",
+    "ExpiationAmount_sum": 4675.0,
+    "ExpiationAmount_count": 90,
+    "ExpiationAmount_mean": 51.94
+  },
+  {
+    "OffenceType": "Further Offence, Fail  pk facing dir trav 2 way rd",
+    "ExpiationAmount_sum": 3613.0,
+    "ExpiationAmount_count": 65,
+    "ExpiationAmount_mean": 55.58
+  },
+  {
+    "OffenceType": "Stop within 1m of Fire Plug Indicator",
+    "ExpiationAmount_sum": 3600.0,
+    "ExpiationAmount_count": 40,
+    "ExpiationAmount_mean": 90.0
+  },
+  {
+    "OffenceType": "Further offence Permit Area Priv Park Areas Act",
+    "ExpiationAmount_sum": 3118.0,
+    "ExpiationAmount_count": 57,
+    "ExpiationAmount_mean": 54.7
+  },
+  {
+    "OffenceType": "Further Offence, Stop in a Taxi Zone",
+    "ExpiationAmount_sum": 2409.0,
+    "ExpiationAmount_count": 44,
+    "ExpiationAmount_mean": 54.75
+  },
+  {
+    "OffenceType": "Double Parked - One way road",
+    "ExpiationAmount_sum": 2123.0,
+    "ExpiationAmount_count": 21,
+    "ExpiationAmount_mean": 101.1
+  },
+  {
+    "OffenceType": "Further Offence, Stop in Disabled Parking Area",
+    "ExpiationAmount_sum": 2049.0,
+    "ExpiationAmount_count": 38,
+    "ExpiationAmount_mean": 53.92
+  },
+  {
+    "OffenceType": "Stop on a road near an Obstruction",
+    "ExpiationAmount_sum": 2000.0,
+    "ExpiationAmount_count": 16,
+    "ExpiationAmount_mean": 125.0
+  },
+  {
+    "OffenceType": "Fail to park completely within parking bay",
+    "ExpiationAmount_sum": 1662.0,
+    "ExpiationAmount_count": 28,
+    "ExpiationAmount_mean": 59.36
+  },
+  {
+    "OffenceType": "Stop within 20m of Intersection - Traffic Lights",
+    "ExpiationAmount_sum": 1619.0,
+    "ExpiationAmount_count": 15,
+    "ExpiationAmount_mean": 107.93
+  },
+  {
+    "OffenceType": "Further Offence, Stop Permit Zone Longer 60 mins",
+    "ExpiationAmount_sum": 1433.0,
+    "ExpiationAmount_count": 28,
+    "ExpiationAmount_mean": 51.18
+  },
+  {
+    "OffenceType": "Further Offence, Stop in a Bus Zone",
+    "ExpiationAmount_sum": 1373.0,
+    "ExpiationAmount_count": 25,
+    "ExpiationAmount_mean": 54.92
+  },
+  {
+    "OffenceType": "Further Offence  Stop City Adelaide Park Lands",
+    "ExpiationAmount_sum": 1339.0,
+    "ExpiationAmount_count": 24,
+    "ExpiationAmount_mean": 55.79
+  },
+  {
+    "OffenceType": "Allow Vehicle on any part of the Mall",
+    "ExpiationAmount_sum": 1155.0,
+    "ExpiationAmount_count": 11,
+    "ExpiationAmount_mean": 105.0
+  },
+  {
+    "OffenceType": "Further Offence Contravene No Stopping Area",
+    "ExpiationAmount_sum": 1012.0,
+    "ExpiationAmount_count": 19,
+    "ExpiationAmount_mean": 53.26
+  },
+  {
+    "OffenceType": "Further Off Fail to park at angle 60deg/Rear kerb",
+    "ExpiationAmount_sum": 1008.0,
+    "ExpiationAmount_count": 18,
+    "ExpiationAmount_mean": 56.0
+  },
+  {
+    "OffenceType": "Contravene Bicycle Parking Sign",
+    "ExpiationAmount_sum": 924.0,
+    "ExpiationAmount_count": 13,
+    "ExpiationAmount_mean": 71.08
+  },
+  {
+    "OffenceType": "Stop in a Permit Zone longer than 30 min maximum",
+    "ExpiationAmount_sum": 788.0,
+    "ExpiationAmount_count": 11,
+    "ExpiationAmount_mean": 71.64
+  },
+  {
+    "OffenceType": "Further Offence, Stop within 1m Fire Hydrant",
+    "ExpiationAmount_sum": 777.0,
+    "ExpiationAmount_count": 14,
+    "ExpiationAmount_mean": 55.5
+  },
+  {
+    "OffenceType": "Stop in a Slip Lane",
+    "ExpiationAmount_sum": 743.0,
+    "ExpiationAmount_count": 7,
+    "ExpiationAmount_mean": 106.14
+  },
+  {
+    "OffenceType": "Further Off, Fail park far left/right one way road",
+    "ExpiationAmount_sum": 725.0,
+    "ExpiationAmount_count": 13,
+    "ExpiationAmount_mean": 55.77
+  },
+  {
+    "OffenceType": "Further offence stop in a Bus Lane",
+    "ExpiationAmount_sum": 702.0,
+    "ExpiationAmount_count": 13,
+    "ExpiationAmount_mean": 54.0
+  },
+  {
+    "OffenceType": "Stop in an Intersection - Traffic Lights",
+    "ExpiationAmount_sum": 688.0,
+    "ExpiationAmount_count": 7,
+    "ExpiationAmount_mean": 98.29
+  },
+  {
+    "OffenceType": "Park less than 1metre front/behind vehicle",
+    "ExpiationAmount_sum": 665.0,
+    "ExpiationAmount_count": 9,
+    "ExpiationAmount_mean": 73.89
+  },
+  {
+    "OffenceType": "Further Offence, Stop Permit Zone Longer 30 mins",
+    "ExpiationAmount_sum": 650.0,
+    "ExpiationAmount_count": 12,
+    "ExpiationAmount_mean": 54.17
+  },
+  {
+    "OffenceType": "Further Offence, Electronic Ticket Expired",
+    "ExpiationAmount_sum": 608.0,
+    "ExpiationAmount_count": 11,
+    "ExpiationAmount_mean": 55.27
+  },
+  {
+    "OffenceType": "Further Offence, Stop in a Mail Zone",
+    "ExpiationAmount_sum": 598.0,
+    "ExpiationAmount_count": 11,
+    "ExpiationAmount_mean": 54.36
+  },
+  {
+    "OffenceType": "Further Offence, Stop on a Footpath",
+    "ExpiationAmount_sum": 589.0,
+    "ExpiationAmount_count": 11,
+    "ExpiationAmount_mean": 53.55
+  },
+  {
+    "OffenceType": "Further Offence, Contravene Motor Bike Parking Sig",
+    "ExpiationAmount_sum": 536.0,
+    "ExpiationAmount_count": 10,
+    "ExpiationAmount_mean": 53.6
+  },
+  {
+    "OffenceType": "Stop on or near a Pedestrian Crossing",
+    "ExpiationAmount_sum": 508.0,
+    "ExpiationAmount_count": 5,
+    "ExpiationAmount_mean": 101.6
+  },
+  {
+    "OffenceType": "Further Offence, Stop on or across a Driveway",
+    "ExpiationAmount_sum": 446.0,
+    "ExpiationAmount_count": 8,
+    "ExpiationAmount_mean": 55.75
+  },
+  {
+    "OffenceType": "Stop on a Traffic Island",
+    "ExpiationAmount_sum": 436.0,
+    "ExpiationAmount_count": 4,
+    "ExpiationAmount_mean": 109.0
+  },
+  {
+    "OffenceType": "Further Offence No Stopping Private Park Areas Act",
+    "ExpiationAmount_sum": 406.0,
+    "ExpiationAmount_count": 8,
+    "ExpiationAmount_mean": 50.75
+  },
+  {
+    "OffenceType": "Further Offence Park obstruct other veh & pedest",
+    "ExpiationAmount_sum": 369.0,
+    "ExpiationAmount_count": 7,
+    "ExpiationAmount_mean": 52.71
+  },
+  {
+    "OffenceType": "Further Offence Stop on Painted Island",
+    "ExpiationAmount_sum": 275.0,
+    "ExpiationAmount_count": 5,
+    "ExpiationAmount_mean": 55.0
+  },
+  {
+    "OffenceType": "Further Offen,Stop within 10m Inter without T/Ligh",
+    "ExpiationAmount_sum": 272.0,
+    "ExpiationAmount_count": 5,
+    "ExpiationAmount_mean": 54.4
+  },
+  {
+    "OffenceType": "Further Offence Stop in a Public Place",
+    "ExpiationAmount_sum": 262.0,
+    "ExpiationAmount_count": 5,
+    "ExpiationAmount_mean": 52.4
+  },
+  {
+    "OffenceType": "Stop on or near Marked Foot Crossing",
+    "ExpiationAmount_sum": 225.0,
+    "ExpiationAmount_count": 2,
+    "ExpiationAmount_mean": 112.5
+  },
+  {
+    "OffenceType": "Further Offence Stop in a Bicycle Lane",
+    "ExpiationAmount_sum": 159.0,
+    "ExpiationAmount_count": 3,
+    "ExpiationAmount_mean": 53.0
+  },
+  {
+    "OffenceType": "Further Offenc, Fail Pk Parall/Close left 2 way rd",
+    "ExpiationAmount_sum": 154.0,
+    "ExpiationAmount_count": 3,
+    "ExpiationAmount_mean": 51.33
+  },
+  {
+    "OffenceType": "Further Offence Fail angle park at angle 90 Degree",
+    "ExpiationAmount_sum": 122.0,
+    "ExpiationAmount_count": 2,
+    "ExpiationAmount_mean": 61.0
+  },
+  {
+    "OffenceType": "Stop for longer than permitted time Long Vehicle",
+    "ExpiationAmount_sum": 117.0,
+    "ExpiationAmount_count": 1,
+    "ExpiationAmount_mean": 117.0
+  },
+  {
+    "OffenceType": "Stop on a Dividing Strip",
+    "ExpiationAmount_sum": 116.0,
+    "ExpiationAmount_count": 1,
+    "ExpiationAmount_mean": 116.0
+  },
+  {
+    "OffenceType": "Further Offence Stop on a Nature Strip",
+    "ExpiationAmount_sum": 102.0,
+    "ExpiationAmount_count": 2,
+    "ExpiationAmount_mean": 51.0
+  },
+  {
+    "OffenceType": "Stop on or near a Pedestrian Crossing Except Inter",
+    "ExpiationAmount_sum": 95.0,
+    "ExpiationAmount_count": 1,
+    "ExpiationAmount_mean": 95.0
+  },
+  {
+    "OffenceType": "Stop in a Loading Zone",
+    "ExpiationAmount_sum": 75.0,
+    "ExpiationAmount_count": 1,
+    "ExpiationAmount_mean": 75.0
+  },
+  {
+    "OffenceType": "Fail to Park 3m from Cont Dividing Line/Div Strip",
+    "ExpiationAmount_sum": 69.0,
+    "ExpiationAmount_count": 1,
+    "ExpiationAmount_mean": 69.0
+  },
+  {
+    "OffenceType": "Further Offence, Stop within 1m of Fire Plug Indic",
+    "ExpiationAmount_sum": 55.0,
+    "ExpiationAmount_count": 1,
+    "ExpiationAmount_mean": 55.0
+  },
+  {
+    "OffenceType": "Further Off Fail to park at angle 45deg/Rear kerb",
+    "ExpiationAmount_sum": 55.0,
+    "ExpiationAmount_count": 1,
+    "ExpiationAmount_mean": 55.0
+  }
+]

@@ -1,0 +1,12 @@
+Field,Value
+Offence Date,The date the offence occurred
+Offence Type,Description of the offence
+Location On Street,The street where the offence occurred
+Offence Time,The time the offence occurred
+Expiation Amount,The amount of the original offence
+Offence Balance,The current balance of the Expiation (as of date of report)
+Amount Paid,Value only present if payment has been made.  The amount of any payment received.
+Paid Date,Value only present if payment has been made.  The date of any payment received
+Exempted Type Description,Value only present if Expiation has been exempted.  A description of the reason for the exemption.
+Exempted Date,Value only present if Expiation has been exempted.  The date the expiation was exempted.
+Status,The Status of the Expiation at the date of the report

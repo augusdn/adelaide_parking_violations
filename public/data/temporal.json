@@ -1,0 +1,945 @@
+{
+  "monthly": [
+    {
+      "Year": 2018,
+      "Month": 1,
+      "ExpiationAmount_sum": 704083.0,
+      "ExpiationAmount_count": 11094,
+      "OffenceBalance_sum": -51.0,
+      "date": "2018-01"
+    },
+    {
+      "Year": 2018,
+      "Month": 2,
+      "ExpiationAmount_sum": 865201.0,
+      "ExpiationAmount_count": 13599,
+      "OffenceBalance_sum": -51.0,
+      "date": "2018-02"
+    },
+    {
+      "Year": 2018,
+      "Month": 3,
+      "ExpiationAmount_sum": 931360.0,
+      "ExpiationAmount_count": 14702,
+      "OffenceBalance_sum": -214.0,
+      "date": "2018-03"
+    },
+    {
+      "Year": 2018,
+      "Month": 4,
+      "ExpiationAmount_sum": 810837.0,
+      "ExpiationAmount_count": 12912,
+      "OffenceBalance_sum": -238.0,
+      "date": "2018-04"
+    },
+    {
+      "Year": 2018,
+      "Month": 5,
+      "ExpiationAmount_sum": 963867.0,
+      "ExpiationAmount_count": 15403,
+      "OffenceBalance_sum": -103.0,
+      "date": "2018-05"
+    },
+    {
+      "Year": 2018,
+      "Month": 6,
+      "ExpiationAmount_sum": 830641.0,
+      "ExpiationAmount_count": 13143,
+      "OffenceBalance_sum": -224.0,
+      "date": "2018-06"
+    },
+    {
+      "Year": 2018,
+      "Month": 7,
+      "ExpiationAmount_sum": 874175.0,
+      "ExpiationAmount_count": 13625,
+      "OffenceBalance_sum": -236.0,
+      "date": "2018-07"
+    },
+    {
+      "Year": 2018,
+      "Month": 8,
+      "ExpiationAmount_sum": 959307.0,
+      "ExpiationAmount_count": 15180,
+      "OffenceBalance_sum": -302.0,
+      "date": "2018-08"
+    },
+    {
+      "Year": 2018,
+      "Month": 9,
+      "ExpiationAmount_sum": 895774.0,
+      "ExpiationAmount_count": 13937,
+      "OffenceBalance_sum": -156.0,
+      "date": "2018-09"
+    },
+    {
+      "Year": 2018,
+      "Month": 10,
+      "ExpiationAmount_sum": 898712.0,
+      "ExpiationAmount_count": 13862,
+      "OffenceBalance_sum": -104.0,
+      "date": "2018-10"
+    },
+    {
+      "Year": 2018,
+      "Month": 11,
+      "ExpiationAmount_sum": 981318.0,
+      "ExpiationAmount_count": 15088,
+      "OffenceBalance_sum": -251.0,
+      "date": "2018-11"
+    },
+    {
+      "Year": 2018,
+      "Month": 12,
+      "ExpiationAmount_sum": 782414.0,
+      "ExpiationAmount_count": 11660,
+      "OffenceBalance_sum": -244.0,
+      "date": "2018-12"
+    },
+    {
+      "Year": 2019,
+      "Month": 1,
+      "ExpiationAmount_sum": 703827.0,
+      "ExpiationAmount_count": 10192,
+      "OffenceBalance_sum": -118.0,
+      "date": "2019-01"
+    },
+    {
+      "Year": 2019,
+      "Month": 2,
+      "ExpiationAmount_sum": 866922.0,
+      "ExpiationAmount_count": 13216,
+      "OffenceBalance_sum": -7.0,
+      "date": "2019-02"
+    },
+    {
+      "Year": 2019,
+      "Month": 3,
+      "ExpiationAmount_sum": 942761.0,
+      "ExpiationAmount_count": 14084,
+      "OffenceBalance_sum": -225.0,
+      "date": "2019-03"
+    },
+    {
+      "Year": 2019,
+      "Month": 4,
+      "ExpiationAmount_sum": 779144.0,
+      "ExpiationAmount_count": 11861,
+      "OffenceBalance_sum": -425.0,
+      "date": "2019-04"
+    },
+    {
+      "Year": 2019,
+      "Month": 5,
+      "ExpiationAmount_sum": 977590.0,
+      "ExpiationAmount_count": 14842,
+      "OffenceBalance_sum": -412.0,
+      "date": "2019-05"
+    },
+    {
+      "Year": 2019,
+      "Month": 6,
+      "ExpiationAmount_sum": 853768.0,
+      "ExpiationAmount_count": 12953,
+      "OffenceBalance_sum": -283.0,
+      "date": "2019-06"
+    },
+    {
+      "Year": 2019,
+      "Month": 7,
+      "ExpiationAmount_sum": 993963.0,
+      "ExpiationAmount_count": 14374,
+      "OffenceBalance_sum": -481.0,
+      "date": "2019-07"
+    },
+    {
+      "Year": 2019,
+      "Month": 8,
+      "ExpiationAmount_sum": 950455.0,
+      "ExpiationAmount_count": 13611,
+      "OffenceBalance_sum": -411.0,
+      "date": "2019-08"
+    },
+    {
+      "Year": 2019,
+      "Month": 9,
+      "ExpiationAmount_sum": 818205.0,
+      "ExpiationAmount_count": 11395,
+      "OffenceBalance_sum": -55.0,
+      "date": "2019-09"
+    },
+    {
+      "Year": 2019,
+      "Month": 10,
+      "ExpiationAmount_sum": 876661.0,
+      "ExpiationAmount_count": 12472,
+      "OffenceBalance_sum": -226.0,
+      "date": "2019-10"
+    },
+    {
+      "Year": 2019,
+      "Month": 11,
+      "ExpiationAmount_sum": 851492.0,
+      "ExpiationAmount_count": 11918,
+      "OffenceBalance_sum": -145.0,
+      "date": "2019-11"
+    },
+    {
+      "Year": 2019,
+      "Month": 12,
+      "ExpiationAmount_sum": 591809.0,
+      "ExpiationAmount_count": 7956,
+      "OffenceBalance_sum": -501.0,
+      "date": "2019-12"
+    },
+    {
+      "Year": 2020,
+      "Month": 1,
+      "ExpiationAmount_sum": 689056.0,
+      "ExpiationAmount_count": 9567,
+      "OffenceBalance_sum": -426.0,
+      "date": "2020-01"
+    },
+    {
+      "Year": 2020,
+      "Month": 2,
+      "ExpiationAmount_sum": 849680.0,
+      "ExpiationAmount_count": 11765,
+      "OffenceBalance_sum": -354.0,
+      "date": "2020-02"
+    },
+    {
+      "Year": 2020,
+      "Month": 3,
+      "ExpiationAmount_sum": 597576.0,
+      "ExpiationAmount_count": 8013,
+      "OffenceBalance_sum": -69.0,
+      "date": "2020-03"
+    },
+    {
+      "Year": 2020,
+      "Month": 4,
+      "ExpiationAmount_sum": 50191.0,
+      "ExpiationAmount_count": 414,
+      "OffenceBalance_sum": 0.0,
+      "date": "2020-04"
+    },
+    {
+      "Year": 2020,
+      "Month": 5,
+      "ExpiationAmount_sum": 275954.0,
+      "ExpiationAmount_count": 3729,
+      "OffenceBalance_sum": 0.0,
+      "date": "2020-05"
+    },
+    {
+      "Year": 2020,
+      "Month": 6,
+      "ExpiationAmount_sum": 499272.0,
+      "ExpiationAmount_count": 7203,
+      "OffenceBalance_sum": -200.0,
+      "date": "2020-06"
+    },
+    {
+      "Year": 2020,
+      "Month": 7,
+      "ExpiationAmount_sum": 709151.0,
+      "ExpiationAmount_count": 9897,
+      "OffenceBalance_sum": -294.0,
+      "date": "2020-07"
+    },
+    {
+      "Year": 2020,
+      "Month": 8,
+      "ExpiationAmount_sum": 662863.0,
+      "ExpiationAmount_count": 9176,
+      "OffenceBalance_sum": -122.0,
+      "date": "2020-08"
+    },
+    {
+      "Year": 2020,
+      "Month": 9,
+      "ExpiationAmount_sum": 703426.0,
+      "ExpiationAmount_count": 9978,
+      "OffenceBalance_sum": -14.0,
+      "date": "2020-09"
+    },
+    {
+      "Year": 2020,
+      "Month": 10,
+      "ExpiationAmount_sum": 691020.0,
+      "ExpiationAmount_count": 9774,
+      "OffenceBalance_sum": -73.0,
+      "date": "2020-10"
+    },
+    {
+      "Year": 2020,
+      "Month": 11,
+      "ExpiationAmount_sum": 561027.0,
+      "ExpiationAmount_count": 7892,
+      "OffenceBalance_sum": -56.0,
+      "date": "2020-11"
+    },
+    {
+      "Year": 2020,
+      "Month": 12,
+      "ExpiationAmount_sum": 608731.0,
+      "ExpiationAmount_count": 8486,
+      "OffenceBalance_sum": 198.0,
+      "date": "2020-12"
+    },
+    {
+      "Year": 2021,
+      "Month": 1,
+      "ExpiationAmount_sum": 530178.0,
+      "ExpiationAmount_count": 7412,
+      "OffenceBalance_sum": 230.0,
+      "date": "2021-01"
+    },
+    {
+      "Year": 2021,
+      "Month": 2,
+      "ExpiationAmount_sum": 599250.0,
+      "ExpiationAmount_count": 8460,
+      "OffenceBalance_sum": -73.0,
+      "date": "2021-02"
+    },
+    {
+      "Year": 2021,
+      "Month": 3,
+      "ExpiationAmount_sum": 690565.0,
+      "ExpiationAmount_count": 9735,
+      "OffenceBalance_sum": -56.0,
+      "date": "2021-03"
+    },
+    {
+      "Year": 2021,
+      "Month": 4,
+      "ExpiationAmount_sum": 562484.0,
+      "ExpiationAmount_count": 8031,
+      "OffenceBalance_sum": -56.0,
+      "date": "2021-04"
+    },
+    {
+      "Year": 2021,
+      "Month": 5,
+      "ExpiationAmount_sum": 578892.0,
+      "ExpiationAmount_count": 8225,
+      "OffenceBalance_sum": 0.0,
+      "date": "2021-05"
+    },
+    {
+      "Year": 2021,
+      "Month": 6,
+      "ExpiationAmount_sum": 623939.0,
+      "ExpiationAmount_count": 9126,
+      "OffenceBalance_sum": -181.0,
+      "date": "2021-06"
+    },
+    {
+      "Year": 2021,
+      "Month": 7,
+      "ExpiationAmount_sum": 395863.0,
+      "ExpiationAmount_count": 5480,
+      "OffenceBalance_sum": -1.0,
+      "date": "2021-07"
+    },
+    {
+      "Year": 2021,
+      "Month": 8,
+      "ExpiationAmount_sum": 627424.0,
+      "ExpiationAmount_count": 9139,
+      "OffenceBalance_sum": 0.0,
+      "date": "2021-08"
+    },
+    {
+      "Year": 2021,
+      "Month": 9,
+      "ExpiationAmount_sum": 710287.0,
+      "ExpiationAmount_count": 10087,
+      "OffenceBalance_sum": 0.0,
+      "date": "2021-09"
+    },
+    {
+      "Year": 2021,
+      "Month": 10,
+      "ExpiationAmount_sum": 591555.0,
+      "ExpiationAmount_count": 8456,
+      "OffenceBalance_sum": 0.0,
+      "date": "2021-10"
+    },
+    {
+      "Year": 2021,
+      "Month": 11,
+      "ExpiationAmount_sum": 606717.0,
+      "ExpiationAmount_count": 8586,
+      "OffenceBalance_sum": -57.0,
+      "date": "2021-11"
+    },
+    {
+      "Year": 2021,
+      "Month": 12,
+      "ExpiationAmount_sum": 445315.0,
+      "ExpiationAmount_count": 6239,
+      "OffenceBalance_sum": 0.0,
+      "date": "2021-12"
+    },
+    {
+      "Year": 2022,
+      "Month": 1,
+      "ExpiationAmount_sum": 243836.0,
+      "ExpiationAmount_count": 2972,
+      "OffenceBalance_sum": 0.0,
+      "date": "2022-01"
+    },
+    {
+      "Year": 2022,
+      "Month": 2,
+      "ExpiationAmount_sum": 440701.0,
+      "ExpiationAmount_count": 5902,
+      "OffenceBalance_sum": -15.0,
+      "date": "2022-02"
+    },
+    {
+      "Year": 2022,
+      "Month": 3,
+      "ExpiationAmount_sum": 607410.0,
+      "ExpiationAmount_count": 7923,
+      "OffenceBalance_sum": 0.0,
+      "date": "2022-03"
+    },
+    {
+      "Year": 2022,
+      "Month": 4,
+      "ExpiationAmount_sum": 422083.0,
+      "ExpiationAmount_count": 5823,
+      "OffenceBalance_sum": 0.0,
+      "date": "2022-04"
+    },
+    {
+      "Year": 2022,
+      "Month": 5,
+      "ExpiationAmount_sum": 499312.0,
+      "ExpiationAmount_count": 6937,
+      "OffenceBalance_sum": -720.0,
+      "date": "2022-05"
+    },
+    {
+      "Year": 2022,
+      "Month": 6,
+      "ExpiationAmount_sum": 591013.0,
+      "ExpiationAmount_count": 8248,
+      "OffenceBalance_sum": 0.0,
+      "date": "2022-06"
+    },
+    {
+      "Year": 2022,
+      "Month": 7,
+      "ExpiationAmount_sum": 674138.0,
+      "ExpiationAmount_count": 9262,
+      "OffenceBalance_sum": -62.0,
+      "date": "2022-07"
+    },
+    {
+      "Year": 2022,
+      "Month": 8,
+      "ExpiationAmount_sum": 691827.0,
+      "ExpiationAmount_count": 9594,
+      "OffenceBalance_sum": -5.0,
+      "date": "2022-08"
+    },
+    {
+      "Year": 2022,
+      "Month": 9,
+      "ExpiationAmount_sum": 681082.0,
+      "ExpiationAmount_count": 9497,
+      "OffenceBalance_sum": -59.0,
+      "date": "2022-09"
+    },
+    {
+      "Year": 2022,
+      "Month": 10,
+      "ExpiationAmount_sum": 625514.0,
+      "ExpiationAmount_count": 8510,
+      "OffenceBalance_sum": 0.0,
+      "date": "2022-10"
+    },
+    {
+      "Year": 2022,
+      "Month": 11,
+      "ExpiationAmount_sum": 701142.0,
+      "ExpiationAmount_count": 9593,
+      "OffenceBalance_sum": -1.0,
+      "date": "2022-11"
+    },
+    {
+      "Year": 2022,
+      "Month": 12,
+      "ExpiationAmount_sum": 617253.0,
+      "ExpiationAmount_count": 8366,
+      "OffenceBalance_sum": 136.0,
+      "date": "2022-12"
+    },
+    {
+      "Year": 2023,
+      "Month": 1,
+      "ExpiationAmount_sum": 552926.0,
+      "ExpiationAmount_count": 7542,
+      "OffenceBalance_sum": 0.0,
+      "date": "2023-01"
+    },
+    {
+      "Year": 2023,
+      "Month": 2,
+      "ExpiationAmount_sum": 612390.0,
+      "ExpiationAmount_count": 8272,
+      "OffenceBalance_sum": 0.0,
+      "date": "2023-02"
+    },
+    {
+      "Year": 2023,
+      "Month": 3,
+      "ExpiationAmount_sum": 771319.0,
+      "ExpiationAmount_count": 10297,
+      "OffenceBalance_sum": 11073.0,
+      "date": "2023-03"
+    },
+    {
+      "Year": 2023,
+      "Month": 4,
+      "ExpiationAmount_sum": 636706.0,
+      "ExpiationAmount_count": 7957,
+      "OffenceBalance_sum": 6783.0,
+      "date": "2023-04"
+    },
+    {
+      "Year": 2023,
+      "Month": 5,
+      "ExpiationAmount_sum": 734441.0,
+      "ExpiationAmount_count": 9396,
+      "OffenceBalance_sum": 7121.0,
+      "date": "2023-05"
+    },
+    {
+      "Year": 2023,
+      "Month": 6,
+      "ExpiationAmount_sum": 745390.0,
+      "ExpiationAmount_count": 9245,
+      "OffenceBalance_sum": 8888.15,
+      "date": "2023-06"
+    },
+    {
+      "Year": 2023,
+      "Month": 7,
+      "ExpiationAmount_sum": 823270.0,
+      "ExpiationAmount_count": 9760,
+      "OffenceBalance_sum": 4184.8,
+      "date": "2023-07"
+    },
+    {
+      "Year": 2023,
+      "Month": 8,
+      "ExpiationAmount_sum": 948103.0,
+      "ExpiationAmount_count": 12138,
+      "OffenceBalance_sum": 14002.0,
+      "date": "2023-08"
+    },
+    {
+      "Year": 2023,
+      "Month": 9,
+      "ExpiationAmount_sum": 817267.0,
+      "ExpiationAmount_count": 10547,
+      "OffenceBalance_sum": 7819.0,
+      "date": "2023-09"
+    },
+    {
+      "Year": 2023,
+      "Month": 10,
+      "ExpiationAmount_sum": 941173.0,
+      "ExpiationAmount_count": 12248,
+      "OffenceBalance_sum": 8963.0,
+      "date": "2023-10"
+    },
+    {
+      "Year": 2023,
+      "Month": 11,
+      "ExpiationAmount_sum": 897636.0,
+      "ExpiationAmount_count": 11433,
+      "OffenceBalance_sum": 7734.0,
+      "date": "2023-11"
+    },
+    {
+      "Year": 2023,
+      "Month": 12,
+      "ExpiationAmount_sum": 811817.0,
+      "ExpiationAmount_count": 10070,
+      "OffenceBalance_sum": 7246.0,
+      "date": "2023-12"
+    },
+    {
+      "Year": 2024,
+      "Month": 1,
+      "ExpiationAmount_sum": 779842.0,
+      "ExpiationAmount_count": 10087,
+      "OffenceBalance_sum": 15987.05,
+      "date": "2024-01"
+    },
+    {
+      "Year": 2024,
+      "Month": 2,
+      "ExpiationAmount_sum": 908303.0,
+      "ExpiationAmount_count": 11391,
+      "OffenceBalance_sum": 10048.0,
+      "date": "2024-02"
+    },
+    {
+      "Year": 2024,
+      "Month": 3,
+      "ExpiationAmount_sum": 951737.0,
+      "ExpiationAmount_count": 11488,
+      "OffenceBalance_sum": 8714.0,
+      "date": "2024-03"
+    },
+    {
+      "Year": 2024,
+      "Month": 4,
+      "ExpiationAmount_sum": 895828.0,
+      "ExpiationAmount_count": 10906,
+      "OffenceBalance_sum": 8276.95,
+      "date": "2024-04"
+    },
+    {
+      "Year": 2024,
+      "Month": 5,
+      "ExpiationAmount_sum": 991903.0,
+      "ExpiationAmount_count": 12376,
+      "OffenceBalance_sum": 5783.8,
+      "date": "2024-05"
+    },
+    {
+      "Year": 2024,
+      "Month": 6,
+      "ExpiationAmount_sum": 870966.0,
+      "ExpiationAmount_count": 10751,
+      "OffenceBalance_sum": 5337.9,
+      "date": "2024-06"
+    },
+    {
+      "Year": 2024,
+      "Month": 7,
+      "ExpiationAmount_sum": 1050639.0,
+      "ExpiationAmount_count": 11982,
+      "OffenceBalance_sum": 6627.9,
+      "date": "2024-07"
+    },
+    {
+      "Year": 2024,
+      "Month": 8,
+      "ExpiationAmount_sum": 1003125.0,
+      "ExpiationAmount_count": 11521,
+      "OffenceBalance_sum": 7182.0,
+      "date": "2024-08"
+    },
+    {
+      "Year": 2024,
+      "Month": 9,
+      "ExpiationAmount_sum": 1017433.0,
+      "ExpiationAmount_count": 11889,
+      "OffenceBalance_sum": 10185.0,
+      "date": "2024-09"
+    },
+    {
+      "Year": 2024,
+      "Month": 10,
+      "ExpiationAmount_sum": 1115319.0,
+      "ExpiationAmount_count": 13331,
+      "OffenceBalance_sum": 8543.5,
+      "date": "2024-10"
+    },
+    {
+      "Year": 2024,
+      "Month": 11,
+      "ExpiationAmount_sum": 1086182.0,
+      "ExpiationAmount_count": 12852,
+      "OffenceBalance_sum": 10783.0,
+      "date": "2024-11"
+    },
+    {
+      "Year": 2024,
+      "Month": 12,
+      "ExpiationAmount_sum": 873750.0,
+      "ExpiationAmount_count": 9611,
+      "OffenceBalance_sum": 13022.0,
+      "date": "2024-12"
+    },
+    {
+      "Year": 2025,
+      "Month": 1,
+      "ExpiationAmount_sum": 868515.0,
+      "ExpiationAmount_count": 9870,
+      "OffenceBalance_sum": 15707.4,
+      "date": "2025-01"
+    },
+    {
+      "Year": 2025,
+      "Month": 2,
+      "ExpiationAmount_sum": 1008515.0,
+      "ExpiationAmount_count": 11518,
+      "OffenceBalance_sum": 31528.6,
+      "date": "2025-02"
+    },
+    {
+      "Year": 2025,
+      "Month": 3,
+      "ExpiationAmount_sum": 1428472.0,
+      "ExpiationAmount_count": 15687,
+      "OffenceBalance_sum": 166615.1,
+      "date": "2025-03"
+    },
+    {
+      "Year": 2025,
+      "Month": 4,
+      "ExpiationAmount_sum": 1193167.0,
+      "ExpiationAmount_count": 13517,
+      "OffenceBalance_sum": 260519.55,
+      "date": "2025-04"
+    },
+    {
+      "Year": 2025,
+      "Month": 5,
+      "ExpiationAmount_sum": 1434553.0,
+      "ExpiationAmount_count": 15291,
+      "OffenceBalance_sum": 324904.9,
+      "date": "2025-05"
+    },
+    {
+      "Year": 2025,
+      "Month": 6,
+      "ExpiationAmount_sum": 1229662.0,
+      "ExpiationAmount_count": 13758,
+      "OffenceBalance_sum": 318197.05,
+      "date": "2025-06"
+    },
+    {
+      "Year": 2025,
+      "Month": 7,
+      "ExpiationAmount_sum": 1440777.0,
+      "ExpiationAmount_count": 15642,
+      "OffenceBalance_sum": 466663.5,
+      "date": "2025-07"
+    },
+    {
+      "Year": 2025,
+      "Month": 8,
+      "ExpiationAmount_sum": 1351762.0,
+      "ExpiationAmount_count": 14719,
+      "OffenceBalance_sum": 575239.15,
+      "date": "2025-08"
+    },
+    {
+      "Year": 2025,
+      "Month": 9,
+      "ExpiationAmount_sum": 975078.0,
+      "ExpiationAmount_count": 11679,
+      "OffenceBalance_sum": 659094.0,
+      "date": "2025-09"
+    }
+  ],
+  "hourly": [
+    {
+      "Hour": 0,
+      "ExpiationAmount_sum": 148552.0,
+      "ExpiationAmount_count": 1666,
+      "ExpiationAmount_mean": 89.17
+    },
+    {
+      "Hour": 1,
+      "ExpiationAmount_sum": 101139.0,
+      "ExpiationAmount_count": 1205,
+      "ExpiationAmount_mean": 83.93
+    },
+    {
+      "Hour": 2,
+      "ExpiationAmount_sum": 89943.0,
+      "ExpiationAmount_count": 985,
+      "ExpiationAmount_mean": 91.31
+    },
+    {
+      "Hour": 3,
+      "ExpiationAmount_sum": 100129.0,
+      "ExpiationAmount_count": 805,
+      "ExpiationAmount_mean": 124.38
+    },
+    {
+      "Hour": 4,
+      "ExpiationAmount_sum": 36766.0,
+      "ExpiationAmount_count": 343,
+      "ExpiationAmount_mean": 107.19
+    },
+    {
+      "Hour": 5,
+      "ExpiationAmount_sum": 5140.0,
+      "ExpiationAmount_count": 52,
+      "ExpiationAmount_mean": 98.85
+    },
+    {
+      "Hour": 6,
+      "ExpiationAmount_sum": 16394.0,
+      "ExpiationAmount_count": 182,
+      "ExpiationAmount_mean": 90.08
+    },
+    {
+      "Hour": 7,
+      "ExpiationAmount_sum": 151081.0,
+      "ExpiationAmount_count": 1550,
+      "ExpiationAmount_mean": 97.47
+    },
+    {
+      "Hour": 8,
+      "ExpiationAmount_sum": 4776209.0,
+      "ExpiationAmount_count": 62051,
+      "ExpiationAmount_mean": 76.97
+    },
+    {
+      "Hour": 9,
+      "ExpiationAmount_sum": 6817628.0,
+      "ExpiationAmount_count": 84698,
+      "ExpiationAmount_mean": 80.49
+    },
+    {
+      "Hour": 10,
+      "ExpiationAmount_sum": 4423956.0,
+      "ExpiationAmount_count": 68190,
+      "ExpiationAmount_mean": 64.88
+    },
+    {
+      "Hour": 11,
+      "ExpiationAmount_sum": 10882948.0,
+      "ExpiationAmount_count": 172479,
+      "ExpiationAmount_mean": 63.1
+    },
+    {
+      "Hour": 12,
+      "ExpiationAmount_sum": 5141298.0,
+      "ExpiationAmount_count": 79066,
+      "ExpiationAmount_mean": 65.03
+    },
+    {
+      "Hour": 13,
+      "ExpiationAmount_sum": 5868388.0,
+      "ExpiationAmount_count": 91020,
+      "ExpiationAmount_mean": 64.47
+    },
+    {
+      "Hour": 14,
+      "ExpiationAmount_sum": 8053028.0,
+      "ExpiationAmount_count": 122009,
+      "ExpiationAmount_mean": 66.0
+    },
+    {
+      "Hour": 15,
+      "ExpiationAmount_sum": 6768207.0,
+      "ExpiationAmount_count": 75876,
+      "ExpiationAmount_mean": 89.2
+    },
+    {
+      "Hour": 16,
+      "ExpiationAmount_sum": 5692970.0,
+      "ExpiationAmount_count": 66553,
+      "ExpiationAmount_mean": 85.54
+    },
+    {
+      "Hour": 17,
+      "ExpiationAmount_sum": 2571011.0,
+      "ExpiationAmount_count": 28316,
+      "ExpiationAmount_mean": 90.8
+    },
+    {
+      "Hour": 18,
+      "ExpiationAmount_sum": 3916662.0,
+      "ExpiationAmount_count": 37006,
+      "ExpiationAmount_mean": 105.84
+    },
+    {
+      "Hour": 19,
+      "ExpiationAmount_sum": 2732371.0,
+      "ExpiationAmount_count": 32578,
+      "ExpiationAmount_mean": 83.87
+    },
+    {
+      "Hour": 20,
+      "ExpiationAmount_sum": 2267851.0,
+      "ExpiationAmount_count": 25734,
+      "ExpiationAmount_mean": 88.13
+    },
+    {
+      "Hour": 21,
+      "ExpiationAmount_sum": 1317942.0,
+      "ExpiationAmount_count": 14831,
+      "ExpiationAmount_mean": 88.86
+    },
+    {
+      "Hour": 22,
+      "ExpiationAmount_sum": 836454.0,
+      "ExpiationAmount_count": 8061,
+      "ExpiationAmount_mean": 103.77
+    },
+    {
+      "Hour": 23,
+      "ExpiationAmount_sum": 411912.0,
+      "ExpiationAmount_count": 4091,
+      "ExpiationAmount_mean": 100.69
+    }
+  ],
+  "daily": [
+    {
+      "DayOfWeek": 0,
+      "ExpiationAmount_sum": 10317469.0,
+      "ExpiationAmount_count": 143657,
+      "ExpiationAmount_mean": 71.82,
+      "dayName": "Monday"
+    },
+    {
+      "DayOfWeek": 1,
+      "ExpiationAmount_sum": 13267398.0,
+      "ExpiationAmount_count": 184410,
+      "ExpiationAmount_mean": 71.95,
+      "dayName": "Tuesday"
+    },
+    {
+      "DayOfWeek": 2,
+      "ExpiationAmount_sum": 12957856.0,
+      "ExpiationAmount_count": 177555,
+      "ExpiationAmount_mean": 72.98,
+      "dayName": "Wednesday"
+    },
+    {
+      "DayOfWeek": 3,
+      "ExpiationAmount_sum": 13352739.0,
+      "ExpiationAmount_count": 178492,
+      "ExpiationAmount_mean": 74.81,
+      "dayName": "Thursday"
+    },
+    {
+      "DayOfWeek": 4,
+      "ExpiationAmount_sum": 14170756.0,
+      "ExpiationAmount_count": 183553,
+      "ExpiationAmount_mean": 77.2,
+      "dayName": "Friday"
+    },
+    {
+      "DayOfWeek": 5,
+      "ExpiationAmount_sum": 5909148.0,
+      "ExpiationAmount_count": 72939,
+      "ExpiationAmount_mean": 81.01,
+      "dayName": "Saturday"
+    },
+    {
+      "DayOfWeek": 6,
+      "ExpiationAmount_sum": 3152613.0,
+      "ExpiationAmount_count": 38741,
+      "ExpiationAmount_mean": 81.38,
+      "dayName": "Sunday"
+    }
+  ]
+}
