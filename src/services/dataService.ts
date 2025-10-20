@@ -50,11 +50,28 @@ class DataService {
     minAmount?: number;
     maxAmount?: number;
     searchTerm?: string;
+    dateRange?: {
+      start: string;
+      end: string;
+    };
   }): StreetData[] {
     return streets.filter(street => {
       if (filters.minAmount && street.totalFines < filters.minAmount) return false;
       if (filters.maxAmount && street.totalFines > filters.maxAmount) return false;
       if (filters.searchTerm && !street.street.toLowerCase().includes(filters.searchTerm.toLowerCase())) return false;
+      
+      // Filter by date range - check if street has violations in the selected range
+      if (filters.dateRange) {
+        const streetFirstDate = new Date(street.dateRange.first);
+        const streetLastDate = new Date(street.dateRange.last);
+        const filterStartDate = new Date(filters.dateRange.start);
+        const filterEndDate = new Date(filters.dateRange.end);
+        
+        // Street has violations in the selected range if there's any overlap
+        const hasOverlap = streetFirstDate <= filterEndDate && streetLastDate >= filterStartDate;
+        if (!hasOverlap) return false;
+      }
+      
       return true;
     });
   }

@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import MapView from './components/MapView';
 import StreetDetails from './components/StreetDetails';
+import DateRangePicker from './components/DateRangePicker';
 import { StreetData, SummaryStats } from './types';
 import { dataService } from './services/dataService';
 
@@ -13,16 +14,33 @@ const App: React.FC = () => {
   const [error, setError] = useState<string | null>(null);
   const [searchTerm, setSearchTerm] = useState('');
   const [showTopStreets, setShowTopStreets] = useState(false);
+  const [dateRange, setDateRange] = useState<{ start: string; end: string }>({
+    start: '2018-01-01',
+    end: '2025-09-29',
+  });
 
   useEffect(() => {
     loadData();
   }, []);
 
   useEffect(() => {
-    // Filter streets based on search term
-    const filtered = dataService.filterStreetData(streets, { searchTerm });
+    // Initialize date range from summary stats
+    if (summaryStats && !dateRange.start) {
+      setDateRange({
+        start: summaryStats.dateRange.first,
+        end: summaryStats.dateRange.last,
+      });
+    }
+  }, [summaryStats]);
+
+  useEffect(() => {
+    // Filter streets based on search term and date range
+    const filtered = dataService.filterStreetData(streets, { 
+      searchTerm,
+      dateRange,
+    });
     setFilteredStreets(filtered);
-  }, [streets, searchTerm]);
+  }, [streets, searchTerm, dateRange]);
 
   const loadData = async () => {
     try {
@@ -52,12 +70,20 @@ const App: React.FC = () => {
 
   const toggleTopStreets = () => {
     if (showTopStreets) {
-      setFilteredStreets(dataService.filterStreetData(streets, { searchTerm }));
+      setFilteredStreets(dataService.filterStreetData(streets, { 
+        searchTerm,
+        dateRange,
+      }));
     } else {
       const topStreets = dataService.getTop10Streets(streets);
       setFilteredStreets(topStreets);
     }
     setShowTopStreets(!showTopStreets);
+  };
+
+  const handleDateRangeChange = (start: string, end: string) => {
+    setDateRange({ start, end });
+    setShowTopStreets(false); // Reset top streets filter when date range changes
   };
 
   if (loading) {
@@ -104,12 +130,22 @@ const App: React.FC = () => {
                   {dataService.formatNumber(summaryStats.totalRecords)} violations • 
                   {dataService.formatCurrency(summaryStats.totalFines)} total fines • 
                   {summaryStats.uniqueStreets} streets • 
-                  Data: {summaryStats.dateRange.first} to {summaryStats.dateRange.last}
+                  Full dataset: {summaryStats.dateRange.first} to {summaryStats.dateRange.last}
                 </p>
               )}
             </div>
             
-            <div className="flex flex-col sm:flex-row gap-3">
+            <div className="flex flex-col sm:flex-row gap-3 items-stretch sm:items-center">
+              {summaryStats && (
+                <DateRangePicker
+                  startDate={dateRange.start}
+                  endDate={dateRange.end}
+                  minDate={summaryStats.dateRange.first}
+                  maxDate={summaryStats.dateRange.last}
+                  onDateRangeChange={handleDateRangeChange}
+                />
+              )}
+              
               <div className="relative">
                 <input
                   type="text"
@@ -147,6 +183,23 @@ const App: React.FC = () => {
         {summaryStats && (
           <div className="absolute top-4 right-4 bg-white p-4 rounded-lg shadow-lg z-[1000] min-w-[280px]">
             <h3 className="font-bold text-lg mb-3">Quick Statistics</h3>
+            
+            {/* Current Date Range Indicator */}
+            <div className="mb-3 pb-3 border-b bg-blue-50 -mx-4 px-4 py-2">
+              <div className="text-xs font-medium text-blue-900 mb-1">Showing data for:</div>
+              <div className="text-sm font-semibold text-blue-700">
+                {new Date(dateRange.start).toLocaleDateString('en-AU', { 
+                  year: 'numeric', 
+                  month: 'short', 
+                  day: 'numeric' 
+                })} - {new Date(dateRange.end).toLocaleDateString('en-AU', { 
+                  year: 'numeric', 
+                  month: 'short', 
+                  day: 'numeric' 
+                })}
+              </div>
+            </div>
+            
             <div className="space-y-2 text-sm">
               <div className="flex justify-between">
                 <span>Showing Streets:</span>
