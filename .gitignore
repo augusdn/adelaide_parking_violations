@@ -45,6 +45,10 @@ pip-delete-this-directory.txt
 scripts/cache/
 *.log
 
+# Raw data files (too large for GitHub, use processed JSON instead)
+data/Parking_Expiations.csv
+data/*.csv
+
 # Temporary files
 *.tmp
 *.temp
